@@ -4,6 +4,10 @@
 # salmon
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/topepo/salmon/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/topepo/salmon/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/topepo/salmon/branch/main/graph/badge.svg)](https://app.codecov.io/gh/topepo/salmon?branch=main)
 <!-- badges: end -->
 
 salmon is a template repository for people who want to make quantile

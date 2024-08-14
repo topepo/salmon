@@ -1,3 +1,5 @@
 ^salmon\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+^\.github$
+^codecov\.yml$
